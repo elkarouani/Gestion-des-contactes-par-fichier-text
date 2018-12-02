@@ -1,0 +1,1 @@
+Id:1,Nom:ELKAROUANI,Prenom:Salah Eddine,Portable:0666857013,Fix:0524648209,Ville:Youssoufia|Id:2,Nom:nom2,Prenom:prenom2,Portable:0000000000,Fix:0000000000,Ville:Marrakech|
